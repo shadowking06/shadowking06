@@ -15,9 +15,9 @@
 
 - 💻 &nbsp; Python | C++ | C 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code 
-- 🖥 &nbsp;  Illustrator | Photoshop 
+- 🛢 &nbsp; MySQL | DBMS | OS 
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Code Block
+- 🖥 &nbsp;  Illustrator | Photoshop | Picsart | Pixallab | Photoshop CC
 
 <br />
 
